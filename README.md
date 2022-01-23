@@ -1,2 +1,0 @@
-# LizaGerget
-psets
